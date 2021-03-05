@@ -1,5 +1,7 @@
 # Content design and user research meetup – Services Week 2021
-Resources from the content design and user research meetup at Services Week 2021. Hosted by:
+Resources from the content design and user research meetup at Services Week 2021. Slides, links and contact details.
+
+## Contact your hosts:
 * Dan Howarth (senior content designer, DWP) – <a href="https://twitter.com/danhowarth">@danhowarth on Twitter</a>
 * Dom Billington (senior content designer, MOJ) – <a href="https://twitter.com/dombillington">@dombillington on Twitter</a>
 * Imran Akhtar (ResearchOps manager, DfE)
@@ -7,3 +9,22 @@ Resources from the content design and user research meetup at Services Week 2021
 * Damien Middleditch (head of content design, HMCTS) – <a href="https://twitter.com/devilmaycare666">@devilmaycare666 on Twitter</a>
 
 Contact us on Twitter or find us on the <a href="https://ukgovernmentdigital.slack.com/">UK cross-government Slack</a>.
+
+## Lightning talks
+
+We had lightning talks on the interfaces between content design and user research from four amazing speakers.
+
+### Imran Akhtar: content design is making my work better
+
+Imran is ResearchOps manager at the Department for Education (DfE).
+
+
+### Peter Smith: top task management during COVID
+
+
+
+### Laura Yarrow: team anthropology
+
+
+
+### Damien Middleditch: doing content crits
