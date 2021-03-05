@@ -1,7 +1,7 @@
 # Content design and user research meetup – Services Week 2021
 Resources from the content design and user research meetup at Services Week 2021. Slides, links and contact details.
 
-## Contact your hosts:
+## Contact the hosts
 * Dan Howarth (senior content designer, DWP) – <a href="https://twitter.com/danhowarth">@danhowarth on Twitter</a>
 * Dom Billington (senior content designer, MOJ) – <a href="https://twitter.com/dombillington">@dombillington on Twitter</a>
 * Imran Akhtar (ResearchOps manager, DfE)
