@@ -14,17 +14,29 @@ Contact us on Twitter or find us on the <a href="https://ukgovernmentdigital.sla
 
 We had lightning talks on the interfaces between content design and user research from four amazing speakers.
 
-### Imran Akhtar: content design is making my work better
+### Imran Akhtar: content design is making my work better
 
 Imran is ResearchOps manager at the Department for Education (DfE).
 
 
 ### Peter Smith: top task management during COVID
 
+Peter is
 
 
 ### Laura Yarrow: team anthropology
 
+Laura is
 
 
 ### Damien Middleditch: doing content crits
+
+Damien is
+
+
+## Content crit of a research participant form
+
+
+
+## Other useful links
+
