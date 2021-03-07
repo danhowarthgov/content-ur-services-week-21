@@ -7,53 +7,53 @@ We had lightning talks on the interfaces between content design and user researc
 
 ### Imran Akhtar: content design is making my work better
 
-Imran is ResearchOps manager at the Department for Education (DfE), part of the UK government. Imran's lightning talk was about why content design is making his work better. 
+Imran is ResearchOps manager at the Department for Education (DfE), part of the UK government. Imran’s lightning talk was about why content design is making his work better. 
 
 <a href="https://github.com/danhowarthdwp/content-ur-services-week-21/raw/main/Imran%20Akhtar%20%E2%80%93%20content%20design%20is%20making%20my%20work%20better.pptx">Download the slides</a>.
 
 
 ### Peter Smith: top task management during COVID
 
-Peter is chief of product design at Canada.ca for the Canadian government. Peter's lightning talk was on top task management during COVID-19, at the Digital Transformation Office. 
+Peter is chief of product design at Canada.ca for the Canadian government. Peter’s lightning talk was on top task management during COVID-19, at the Digital Transformation Office. 
 
 <a href="https://github.com/danhowarthdwp/content-ur-services-week-21/raw/main/Peter%20Smith%20-%20DTO%20top%20tasks.pptx">Download the slides</a>.
 
 
 ### Laura Yarrow: team anthropology
 
-Laura is head of design at HM Land registry, part of the UK government. Laura's lightning talk was on how she's applying user-centred design principles to build the design practice at Land Registry, and treating her team as users. 
+Laura is head of design at HM Land registry, part of the UK government. Laura’s lightning talk was on how she’s applying user-centred design principles to build the design practice at Land Registry, and treating her team as users. 
 
 <a href="https://github.com/danhowarthdwp/content-ur-services-week-21/raw/main/Laura%20Yarrow%20-%20team%20anthropology.pptx">Download the slides</a>.
 
 Books that Laura recommended:
-* 'This Is Service Design Doing: Applying Service Design Thinking in the Real World' (2018) by Marc Stickdorn
-* 'The Power of Servant Leadership' (1998) by Robert K. Greenleaf
+* ‘This Is Service Design Doing: Applying Service Design Thinking in the Real World’ (2018) by Marc Stickdorn
+* ‘The Power of Servant Leadership’ (1998) by Robert K. Greenleaf
 
 
 ### Damien Middleditch: doing content crits
 
-Damien is head of content design at HM Courts and Tribunals Service (HMCTS), part of the UK government. Damien's lightning talk was on content crits and how to do them. He showed a design crit structure that was created by the Ministry of Justice (MOJ). 
+Damien is head of content design at HM Courts and Tribunals Service (HMCTS), part of the UK government. Damien’s lightning talk was on content crits and how to do them. He showed a design crit structure that was created by the Ministry of Justice (MOJ). 
 
 <a href="https://github.com/danhowarthdwp/content-ur-services-week-21/raw/main/Damien%20Middleditch%20%E2%80%93%20doing%20content%20crits.pptx">Download the slides</a>.
 
 
 ## Content crit of a research participant consent form
 
-Following Damien's talk on how to do a content crit, Lucy Sutton (ResearchOps at DfE) offered a new user research participant consent form she's working on at DfE for us to crit. Dom and Dan led the crit, and they fielded comments and suggestions from the audience via Mentimeter and Miro. Because the crit is a safe environment and sometimes contains sensitive information, we're not going to post the outputs here. But we are thinking about how to summarise it, and we'll update this page when we do.
+Following Damien’s talk on how to do a content crit, Lucy Sutton (ResearchOps at DfE) offered a new user research participant consent form she’s working on at DfE for us to crit. Dom and Dan led the crit, and they fielded comments and suggestions from the audience via Mentimeter and Miro. Because the crit is a safe environment and sometimes contains sensitive information, we’re not going to post the outputs here. But we are thinking about how to summarise it, and we’ll update this page when we do.
 
 Damien recommends that you read:
-* Jane McFadyen's blog post, '<a href="https://gathercontent.com/blog/why-you-should-run-content-crits-and-how-they-improve-ux-design">Why you should run content crits and how they improve UX design</a>', for GatherContent
+* Jane McFadyen’s blog post, ‘<a href="https://gathercontent.com/blog/why-you-should-run-content-crits-and-how-they-improve-ux-design">Why you should run content crits and how they improve UX design</a>’, for GatherContent
 
 ## Other useful links
 
 We discussed a number of books and other useful resources. Here are the details. We have not linked to a website where you can buy the books, but please consider buying them from independent bookshops.
 
-* 'Content design' (2017) by Sarah Richards. This is the flagship book on content design by the founder of the profession, Sarah Winters (née Richards)
-* 'Politics and the English Language' (1946) by George Orwell. A seminal essay on style in written English. It's available in full on <a href="https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/">the Orwell Foundation website</a>
+* ‘Content design’ (2017) by Sarah Richards. This is the flagship book on content design by the founder of the profession, Sarah Winters (née Richards)
+* ‘Politics and the English Language’ (1946) by George Orwell. A seminal essay on style in written English. It’s available in full on <a href="https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/">the Orwell Foundation website</a>
 * https://medium.com/@jo_69174/how-user-researchers-content-designers-and-interaction-designers-work-together-400823d1e9ee![Uploading image.png…]()
-* '<a href="https://medium.com/@jo_69174/how-user-researchers-content-designers-and-interaction-designers-work-together-400823d1e9ee">How user researchers, content designers and interaction designers work together</a>' – a blog post by Jo O'Keefe, lead user researcher at Care Quality Permission
-* '<a href="https://www.effortmark.co.uk/what-does-low-literacy-mean-in-practice/">What does low literacy mean in practice?</a>' – an article by Caroline Jarrett, a forms and surveys specialist who does lots of work with NHS Digital
-* '<a href="https://www.nngroup.com/articles/testing-content-websites/">How to test content with users</a>' – an article by Kate Moran at Nielsen Norman Group
+* ‘<a href="https://medium.com/@jo_69174/how-user-researchers-content-designers-and-interaction-designers-work-together-400823d1e9ee">How user researchers, content designers and interaction designers work together</a>’ – a blog post by Jo O’Keefe, lead user researcher at Care Quality Permission
+* ‘<a href="https://www.effortmark.co.uk/what-does-low-literacy-mean-in-practice/">What does low literacy mean in practice?</a>’ – an article by Caroline Jarrett, a forms and surveys specialist who does a lot of work with NHS Digital
+* ‘<a href="https://www.nngroup.com/articles/testing-content-websites/">How to test content with users</a>’ – an article by Kate Moran at Nielsen Norman Group
 * < a href="https://drive.google.com/file/d/1mvk72az0uHO4eQbZiEg2vlBeNNOR0YZQ/view?usp=sharing">Posters on giving feedback (hosted on Google Drive)</a>, by the Government Digital Service (GDS)
 
 ## Contact the hosts
