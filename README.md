@@ -21,7 +21,7 @@ Peter is chief of product design at Canada.ca for the Canadian government. Peter
 
 ### Laura Yarrow: team anthropology
 
-Laura is head of design at HM Land registry, part of the UK government. Laura's lightning talk was on how she's applying user-centred design principles to build the design practice at Land registry, and treating her team as users. 
+Laura is head of design at HM Land registry, part of the UK government. Laura's lightning talk was on how she's applying user-centred design principles to build the design practice at Land Registry, and treating her team as users. 
 
 <a href="https://github.com/danhowarthdwp/content-ur-services-week-21/raw/main/Laura%20Yarrow%20-%20team%20anthropology.pptx">Download the slides</a>.
 
