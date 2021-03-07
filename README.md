@@ -33,8 +33,8 @@ Following Damien's talk on how to do a content crit, Lucy offered a new user res
 
 We discussed a number of books and other useful resources. Here are the details. We have not linked to a website where you can buy the books, but please consider buying them from independent bookshops.
 
-* 'Content design' (2017) by Sarah Richards. This is the flagship book on content design by the founder of the profession, Sarah Winters (née Richards).
-* 'Politics and the English Language' (1946) by George Orwell. A seminal essay on style in written English. It's available in full on <a href="https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/">the Orwell Foundation website</a>.
+* 'Content design' (2017) by Sarah Richards. This is the flagship book on content design by the founder of the profession, Sarah Winters (née Richards)
+* 'Politics and the English Language' (1946) by George Orwell. A seminal essay on style in written English. It's available in full on <a href="https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/">the Orwell Foundation website</a>
 
 ## Contact the hosts
 * Dan Howarth (senior content designer, DWP) – <a href="https://twitter.com/danhowarth">@danhowarth on Twitter</a>
