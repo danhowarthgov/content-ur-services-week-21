@@ -37,7 +37,7 @@ Damien is head of content design at HM Courts and Tribunals Service (HMCTS), par
 <a href="https://github.com/danhowarthdwp/content-ur-services-week-21/raw/main/Damien%20Middleditch%20%E2%80%93%20doing%20content%20crits.pptx">Download the slides</a>.
 
 
-## Content crit of a research participant form
+## Content crit of a research participant consent form
 
 Following Damien's talk on how to do a content crit, Lucy Sutton (ResearchOps at DfE) offered a new user research participant consent form she's working on at DfE for us to crit. Dom and Dan led the crit, and they fielded comments and suggestions from the audience via Mentimeter and Miro. Because the crit is a safe environment and sometimes contains sensitive information, we're not going to post the outputs here. But we are thinking about how to summarise it, and we'll update this page when we do.
 
