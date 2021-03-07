@@ -39,7 +39,7 @@ Damien is head of content design at HM Courts and Tribunals Service (HMCTS), par
 
 ## Content crit of a research participant form
 
-Following Damien's talk on how to do a content crit, Lucy offered a new user research participant consent form she's working on at DfE for us to crit. Dom and Dan led the crit, and we fielded comments and suggestions from the audience via Mentimeter and Miro. Because the crit is a safe environment and sometimes contains sensitive information, we're not going to post the outputs here. But we are thinking about how to summarise it, and we'll update this page when we do.
+Following Damien's talk on how to do a content crit, Lucy Sutton (ResearchOps at DfE) offered a new user research participant consent form she's working on at DfE for us to crit. Dom and Dan led the crit, and we fielded comments and suggestions from the audience via Mentimeter and Miro. Because the crit is a safe environment and sometimes contains sensitive information, we're not going to post the outputs here. But we are thinking about how to summarise it, and we'll update this page when we do.
 
 Damien recommends that you read:
 * Jane McFadyen's blog post, '<a href="https://gathercontent.com/blog/why-you-should-run-content-crits-and-how-they-improve-ux-design">Why you should run content crits and how they improve UX design</a>', for GatherContent
