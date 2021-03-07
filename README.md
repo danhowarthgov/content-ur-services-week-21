@@ -7,17 +7,23 @@ We had lightning talks on the interfaces between content design and user researc
 
 ### Imran Akhtar: content design is making my work better
 
-Imran is ResearchOps manager at the Department for Education (DfE), part of the UK government. Imran's lightning talk was about why content design is making his work better. <a href="https://github.com/danhowarthdwp/content-ur-services-week-21/raw/main/Imran%20Akhtar%20%E2%80%93%20content%20design%20is%20making%20my%20work%20better.pptx">Download the slides</a>.
+Imran is ResearchOps manager at the Department for Education (DfE), part of the UK government. Imran's lightning talk was about why content design is making his work better. 
+
+<a href="https://github.com/danhowarthdwp/content-ur-services-week-21/raw/main/Imran%20Akhtar%20%E2%80%93%20content%20design%20is%20making%20my%20work%20better.pptx">Download the slides</a>.
 
 
 ### Peter Smith: top task management during COVID
 
-Peter is chief of product design at Canada.ca for the Canadian government. Peter's lightning talk was on top task management during COVID-19, at the Digital Transformation Office. <a href="https://github.com/danhowarthdwp/content-ur-services-week-21/raw/main/Peter%20Smith%20-%20DTO%20top%20tasks.pptx">Download the slides</a>.
+Peter is chief of product design at Canada.ca for the Canadian government. Peter's lightning talk was on top task management during COVID-19, at the Digital Transformation Office. 
+
+<a href="https://github.com/danhowarthdwp/content-ur-services-week-21/raw/main/Peter%20Smith%20-%20DTO%20top%20tasks.pptx">Download the slides</a>.
 
 
 ### Laura Yarrow: team anthropology
 
-Laura is head of design at HM Land registry, part of the UK government. Laura's lightning talk was on how she's applying user-centred design principles to build the design practice at Land registry, and treating her team as users. <a href="https://github.com/danhowarthdwp/content-ur-services-week-21/raw/main/Laura%20Yarrow%20-%20team%20anthropology.pptx">Download the slides</a>.
+Laura is head of design at HM Land registry, part of the UK government. Laura's lightning talk was on how she's applying user-centred design principles to build the design practice at Land registry, and treating her team as users. 
+
+<a href="https://github.com/danhowarthdwp/content-ur-services-week-21/raw/main/Laura%20Yarrow%20-%20team%20anthropology.pptx">Download the slides</a>.
 
 Books that Laura recommended:
 * 'This Is Service Design Doing: Applying Service Design Thinking in the Real World' (2018) by Marc Stickdorn
@@ -26,7 +32,9 @@ Books that Laura recommended:
 
 ### Damien Middleditch: doing content crits
 
-Damien is head of content design at HM Courts and Tribunals Service (HMCTS), part of the UK government. Damien's lightning talk was on content crits and how to do them. He showed a design crit structure that was created by the Ministry of Justice (MOJ). <a href="https://github.com/danhowarthdwp/content-ur-services-week-21/raw/main/Damien%20Middleditch%20%E2%80%93%20doing%20content%20crits.pptx">Download the slides</a>.
+Damien is head of content design at HM Courts and Tribunals Service (HMCTS), part of the UK government. Damien's lightning talk was on content crits and how to do them. He showed a design crit structure that was created by the Ministry of Justice (MOJ). 
+
+<a href="https://github.com/danhowarthdwp/content-ur-services-week-21/raw/main/Damien%20Middleditch%20%E2%80%93%20doing%20content%20crits.pptx">Download the slides</a>.
 
 
 ## Content crit of a research participant form
