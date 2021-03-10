@@ -55,6 +55,7 @@ We discussed a number of books and other useful resources. Here are the details.
 * ‘<a href="https://www.effortmark.co.uk/what-does-low-literacy-mean-in-practice/">What does low literacy mean in practice?</a>’ – an article by Caroline Jarrett, a forms and surveys specialist who does a lot of work with NHS Digital
 * ‘<a href="https://www.nngroup.com/articles/testing-content-websites/">How to test content with users</a>’ – an article by Kate Moran at Nielsen Norman Group
 * < a href="https://drive.google.com/file/d/1mvk72az0uHO4eQbZiEg2vlBeNNOR0YZQ/view?usp=sharing">Posters on giving feedback (hosted on Google Drive)</a>, by the Government Digital Service (GDS)
+* <a href="https://docs.google.com/presentation/d/16XT3AmbZkOlRds0hS0kaOwEMFPQu1Y8DlDUWK8Kwbxk/edit?usp=sharing">Slide deck from GDS (in Google Slides)</a> on getting feedback and running good feedback sessions
 
 ## Contact the hosts
 * Dan Howarth (senior content designer, DWP) – <a href="https://twitter.com/danhowarth">@danhowarth on Twitter</a>
