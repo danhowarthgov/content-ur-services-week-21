@@ -50,11 +50,10 @@ We discussed a number of books and other useful resources. Here are the details.
 
 * ‘Content design’ (2017) by Sarah Richards. This is the flagship book on content design by the founder of the profession, Sarah Winters (née Richards)
 * ‘Politics and the English Language’ (1946) by George Orwell. A seminal essay on style in written English. It’s available in full on <a href="https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/">the Orwell Foundation website</a>
-* https://medium.com/@jo_69174/how-user-researchers-content-designers-and-interaction-designers-work-together-400823d1e9ee![Uploading image.png…]()
 * ‘<a href="https://medium.com/@jo_69174/how-user-researchers-content-designers-and-interaction-designers-work-together-400823d1e9ee">How user researchers, content designers and interaction designers work together</a>’ – a blog post by Jo O’Keefe, lead user researcher at Care Quality Permission
 * ‘<a href="https://www.effortmark.co.uk/what-does-low-literacy-mean-in-practice/">What does low literacy mean in practice?</a>’ – an article by Caroline Jarrett, a forms and surveys specialist who does a lot of work with NHS Digital
 * ‘<a href="https://www.nngroup.com/articles/testing-content-websites/">How to test content with users</a>’ – an article by Kate Moran at Nielsen Norman Group
-* < a href="https://drive.google.com/file/d/1mvk72az0uHO4eQbZiEg2vlBeNNOR0YZQ/view?usp=sharing">Posters on giving feedback (hosted on Google Drive)</a>, by the Government Digital Service (GDS)
+* <a href="https://drive.google.com/file/d/1mvk72az0uHO4eQbZiEg2vlBeNNOR0YZQ/view?usp=sharing">Posters on giving feedback (hosted on Google Drive)</a>, by the Government Digital Service (GDS)
 * <a href="https://docs.google.com/presentation/d/16XT3AmbZkOlRds0hS0kaOwEMFPQu1Y8DlDUWK8Kwbxk/edit?usp=sharing">Slide deck from GDS (in Google Slides)</a> on getting feedback and running good feedback sessions
 
 ## Contact the hosts
