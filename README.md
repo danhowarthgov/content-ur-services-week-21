@@ -1,6 +1,12 @@
 # Content design and user research meetup – Services Week 2021
 Resources from the <a href="https://www.eventbrite.co.uk/e/content-design-and-user-research-meetup-services-week-2021-tickets-142131482089">content design and user research meetup at Services Week 2021</a>. Including slides, links and contact details.
 
+## Notes from the interactive parts
+
+We used Mentimeter and Teams to run the session. Mentimeter lets you ask questions, do polls and get feedback from the audience. During each lightning talk, we asked for people’s thoughts and ideas, then spent 5 minutes discussing them after each talk. We also used Mentimeter for an ice-breaker at the beginning, and a retro at the end. We exported all the Mentimeter slides and feedback to PDF (although it's not accessible. We'll work on that).
+
+<a href="">Download the slides and feedback</a>.
+
 ## Lightning talks
 
 We had lightning talks on the interfaces between content design and user research from four amazing speakers.
@@ -36,13 +42,14 @@ Damien is head of content design at HM Courts and Tribunals Service (HMCTS), par
 
 <a href="https://github.com/danhowarthdwp/content-ur-services-week-21/raw/main/Damien%20Middleditch%20%E2%80%93%20doing%20content%20crits.pptx">Download the slides</a>.
 
+Damien recommends that you read:
+* Jane McFadyen’s blog post, ‘<a href="https://gathercontent.com/blog/why-you-should-run-content-crits-and-how-they-improve-ux-design">Why you should run content crits and how they improve UX design</a>’, for GatherContent
+
 
 ## Content crit of a research participant consent form
 
 Following Damien’s talk on how to do a content crit, Lucy Sutton (ResearchOps at DfE) offered a new user research participant consent form she’s working on at DfE for us to crit. Dom and Dan led the crit, and they fielded comments and suggestions from the audience via Mentimeter and Miro. Because the crit is a safe environment and sometimes contains sensitive information, we’re not going to post the outputs here. But we are thinking about how to summarise it, and we’ll update this page when we do.
 
-Damien recommends that you read:
-* Jane McFadyen’s blog post, ‘<a href="https://gathercontent.com/blog/why-you-should-run-content-crits-and-how-they-improve-ux-design">Why you should run content crits and how they improve UX design</a>’, for GatherContent
 
 ## Other useful links
 
