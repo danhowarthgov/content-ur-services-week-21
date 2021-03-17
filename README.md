@@ -5,7 +5,7 @@ Resources from the <a href="https://www.eventbrite.co.uk/e/content-design-and-us
 
 We used Mentimeter and Teams to run the session. Mentimeter lets you ask questions, do polls and get feedback from the audience. During each lightning talk, we asked for people’s thoughts and ideas, then spent 5 minutes discussing them after each talk. We also used Mentimeter for an ice-breaker at the beginning, and a retro at the end. We exported all the Mentimeter slides and feedback to PDF (although it's not accessible. We'll work on that).
 
-<a href="">Download the slides and feedback</a>.
+<a href="https://github.com/danhowarthdwp/content-ur-services-week-21/blob/main/Mentimeter%20slides%20and%20responses%20050321.pdf">Download the slides and feedback</a>.
 
 ## Lightning talks
 
