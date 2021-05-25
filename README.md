@@ -71,3 +71,8 @@ We discussed a number of books and other useful resources. Here are the details.
 * Damien Middleditch (head of content design, HMCTS) – <a href="https://twitter.com/devilmaycare666">@devilmaycare666 on Twitter</a>
 
 Contact us on Twitter or find us on the <a href="https://ukgovernmentdigital.slack.com/">UK cross-government Slack</a>.
+
+
+## Other content and user research meetups
+
+* <a href="https://github.com/danhowarthdwp/content-ur-concon-10">ConCon 10, 19 May 2021</a>
